@@ -6,7 +6,7 @@
 
 ### **Welcome** to <a href="https://topiqu.com" target="_blank">**Topiqu**</a>! 👋
 
-A modern full-stack TypeScript blogging platform.
+Your Company Blog on Autopilot.
 
 ---
 
